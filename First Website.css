@@ -1,0 +1,97 @@
+body {
+	margin: 0 0;
+	background-image: url(../Photos/1bd9ca46f119df9a42c19daf84d68422c30c010d.png) , url(../Photos/images.jpeg);
+	background-attachment: fixed, fixed;
+	background-repeat: no-repeat , no-repeat;
+	background-position: 750px -30px , -150px 0;
+}
+
+.container {
+	width: 950px;
+	margin: -20px auto 0;
+	background-color: #ada9a9;
+}
+
+.Header {
+	color: gray;
+
+}
+
+.Header .judul {
+	margin-left: 20px;
+	font-weight: bold;
+	margin-bottom: 0;
+	padding-top: 10px;
+}
+
+.Header ul {
+	display: inline-block;
+	padding-left: 0;
+	margin-top: 0;
+	margin-left: 20px;
+}
+
+.Header ul li {
+	margin-top: 0;
+	display: inline-block;
+	padding-right: 5px;
+}
+
+.Header ul li a {
+	text-decoration: none;
+	color: salmon;
+}
+
+.Header ul li a:hover {
+	color: white;
+	background-color: skyblue;
+}
+
+.hero {
+	height: 455px;
+	background-image: url(b9664d57d8cc588ca77d1ef6c17b8ad1.jpeg);
+	background-position: 0px 0px;
+	border-top: 5px solid salmon;
+	margin-top: 5px;
+	border-bottom: 5px solid blueviolet;
+	padding-bottom: 0;
+}
+
+.main {
+	padding: 20px;
+	margin-left: 5px;
+}
+
+.main h3 {
+	font-size: 30px;
+	margin: 5px;
+	margin-left: 15px;
+}
+
+.main .By {
+	margin-top: 0;
+}
+
+.main .By a {
+	color: blueviolet;
+	text-decoration: none;
+}
+
+.main .By a:hover {
+	color: red;
+	background-color: gray;
+}
+
+.copy {
+	background-color: #373737;
+	font-size: 12px;
+	text-align: center;
+	padding: 5px;
+	margin: 0;
+	color: white;
+
+}
+
+
+
+
